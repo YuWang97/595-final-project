@@ -16,4 +16,4 @@ Map below illustrates extra density gained from TDR and density bonus in each ne
 
 
 Map below illustrates 
-![quanitity_each_type](quanitity_each type_normalized.png)
+![quanitity_each_type](quanitity_eachtype_normalized.png)

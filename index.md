@@ -10,10 +10,10 @@ There has been a widespread popularity of density-based tools that planners arou
 New Taipei City was originally Taipei County in Taiwan and was promoted to special municipal status and renamed as "New Taipei City" on 25 December 2010. In this process, density-based tools have played a critical role for the government in New Taipei City to boost urban development and capture land value.
 This final project relies on dataset provided by the Urban Design Committee of New Taipei City, which contains information about residential construction projects that were granted extra density by different levels of governments in New Taipei City. Housing price data are provided by [Cathy Real Estate](https://www.cathay-red.com.tw/en/About/Info), a real estate company collecting presale housing prices. The data on neighborhood socioeconomic attributes are from [Open Platform of New Taipei City Government](https://data.ntpc.gov.tw/datasets).
 ### Static Maps
-Map below illustrates extra density gained from TDR and density bonus in each neighborhood.
-![quantity_extra_density](quantity_normalized_by_total.png)
+The dataset from the Urban Design Committee is at the project level, listing the quantity of extra density each project received from different types of density bonusing. With the data grouped and aggregated by the neighborhood in which each project is located, the map below illustrates the distribution of extra density gained from TDR and density bonus in New Taipei's neighborhoods.
+
+![The Distribution of Extra Density](distribution_density.png)
 
 
 
-Map below illustrates 
-![quanitity_each_type](quanitity_eachtype_normalized.png)
+### Interactive Maps

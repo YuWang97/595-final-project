@@ -14,6 +14,8 @@ The dataset from the Urban Design Committee is at the project level, listing the
 
 ![The Distribution of Extra Density](distribution_density.png)
 
+The map below illustrates the 
 
 
 ### Interactive Maps
+<iframe src = "time_stamped.html" height = "800" width = "800"></iframe> [Open this map as a new page](time_stamped.html).

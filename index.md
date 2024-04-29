@@ -24,4 +24,8 @@ The serial maps below illustrate the quantity of extra density that construction
 ![Each_Type_Extra_Density](quanitity_each_type_density.png)
 
 ### Interactive Maps
+The interactive map below illustrates the change in the distribution of density-bonused projects over the two decades.
 <iframe src = "timestamped.html" height = "800" width = "1080"></iframe> [Open this map as a new page](timestamped.html).
+
+<iframe src = "clustering.html" height = "800" width = "1080"></iframe> [Open this map as a new page](clustering.html).
+
